@@ -1,21 +1,17 @@
 package com.brainchain.career_counselling.Career_Counselling.dto;
 
-import lombok.Getter;
-import lombok.Setter;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
-@Getter
-@Setter
+@Data
+@Builder
+@NoArgsConstructor
+@AllArgsConstructor
 public class AuthResponse {
-
-	private String token;
-	private String role;
-	private String email;
-	
-	public AuthResponse(String token,String role,String email) {
-		this.token = token;
-		this.role = role;
-		this.email = email;
-		
-		
-	}
+    private String token;
+    private Long userId;
+    private String email;
+    private String role;
 }

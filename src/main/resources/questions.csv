@@ -1,0 +1,13 @@
+testId,questionId,question,optionA,optionB,optionC,optionD,correctAnswer
+1,1,"What is 2 + 2?","2","3","4","5","4"
+1,2,"What is 5 - 3?","1","2","3","4","2"
+1,3,"What is 3 × 4?","10","11","12","13","12"
+2,1,"What is the capital of France?","Paris","London","Berlin","Madrid","Paris"
+2,2,"Which country has the largest population?","USA","China","India","Russia","India"
+2,3,"What is the longest river in the world?","Nile","Amazon","Yangtze","Mississippi","Nile"
+3,1,"Which planet is the largest?","Earth","Mars","Jupiter","Saturn","Jupiter"
+3,2,"What is the closest star to Earth?","Sun","Proxima Centauri","Sirius","Betelgeuse","Sun"
+3,3,"How many moons does Earth have?","1","2","3","4","1"
+4,1,"What is H2O commonly known as?","Salt","Water","Sugar","Oil","Water"
+4,2,"What gas do plants use for photosynthesis?","Oxygen","Carbon Dioxide","Nitrogen","Hydrogen","Carbon Dioxide"
+4,3,"What is the atomic number of Hydrogen?","1","2","3","4","1"

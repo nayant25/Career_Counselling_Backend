@@ -1,2 +1,8 @@
+# Normalize line endings for all text files
+* text=auto
+
+# Maven wrapper script (Unix-style)
 /mvnw text eol=lf
+
+# Windows batch files
 *.cmd text eol=crlf

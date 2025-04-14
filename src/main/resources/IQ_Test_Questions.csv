@@ -1,0 +1,31 @@
+Question ID,Section,Question,Option A,Option B,Option C,Option D,Correct Option
+1,Logical Reasoning,"If all Bloops are Razzies and all Razzies are Lazzies, are all Bloops definitely Lazzies?",Yes,No,Cannot be determined,Sometimes,A
+2,Logical Reasoning,A is taller than B. B is taller than C. Who is the shortest?,A,B,C,Can't say,C
+3,Logical Reasoning,"Find the next figure in the pattern: ▲, ▼, ▲, ▼,?",▲,▼,◇,◯,A
+4,Logical Reasoning,"If 2 pencils cost 8 rupees, how much do 6 pencils cost?",12,20,24,16,D
+5,Logical Reasoning,"Which number does not belong: 3, 5, 7, 8,?",3,5,7,8,D
+6,Logical Reasoning,"All squares are rectangles. Some rectangles are triangles. So, are all squares triangles?",Yes,No,Cannot be determined,Somewhat,C
+7,Numerical Ability,"What comes next: 2, 4, 8, 16, ?",32,24,20,18,A
+8,Numerical Ability,"Which number completes the series: 1, 4, 9, 16, ?",25,20,30,36,A
+9,Numerical Ability,What is 15% of 200?,30,20,25,40,A
+10,Numerical Ability,"If a shirt costs ₹300 after 25% discount, what was the original price?",₹400,₹300,₹350,₹375,D
+11,Numerical Ability,A train travels 60 km in 1.5 hours. What's its speed?,40,45,60,30,B
+12,Numerical Ability,Which fraction is the largest?,2/3,1/2,3/5,5/8,A
+13,Verbal Reasoning,"Find the odd one out: Apple, Banana, Carrot, Mango",Apple,Banana,Carrot,Mango,C
+14,Verbal Reasoning,"Which word is a synonym of ""big""?",Small,Large,Short,Tiny,B
+15,Verbal Reasoning,"Which word is opposite of ""begin""?",Start,Open,End,Push,C
+16,Verbal Reasoning,Fill in the blank: The sun rises ___ the east.,on,in,at,from,B
+17,Verbal Reasoning,Which word fits best: Cat is to kitten as dog is to __?,Pup,Canine,Wolf,Cow,A
+18,Verbal Reasoning,Choose the correct analogy: Book is to Reading as Fork is to ___?,Drawing,Cooking,Stirring,Writing,B
+19,Spatial Intelligence,Which image is the mirror of 'b'?,d,p,q,b,D
+20,Spatial Intelligence,"Find the odd one out: ◯,⬤,□,🔺",◯,⬤,□,🔺,B
+21,Spatial Intelligence,"If a shape rotates 90° clockwise each time, what comes after ◢?",◣,◥,◤,◢,B
+22,Spatial Intelligence,Which pattern comes next? ⬛⬜⬛⬜?,⬛,⬜,⬛⬛,⬜⬜,A
+23,Spatial Intelligence,You fold a square piece of paper into half diagonally. What shape is the new folded edge?,Triangle,Rectangle,Circle,Line,A
+24,Spatial Intelligence,Which two shapes are identical but rotated?,A & B,B & C,C & D,A & D,C
+25,Memory & Attention,You see: ★ ☀ 🔵 🔶 ◼ – Which one was not shown?,☀,🔵,🟩,◼,C
+26,Memory & Attention,Remember this: 7429. What was the third digit?,2,9,4,7,C
+27,Memory & Attention,Which symbol was in the list: 🌙 ⭐ 💧 🔺?,🌙,🍀,🌟,🐱,A
+28,Memory & Attention,Match the pair: Car – Drive | Pen – ?,Write,Ink,Book,Draw,A
+29,Memory & Attention,"Which number is missing: 15, 25, __, 45?",30,35,40,20,A
+30,Memory & Attention,"Remember the color sequence: Red, Green, Blue, Yellow. What was the 2nd?",Blue,Yellow,Green,Red,C
